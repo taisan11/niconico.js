@@ -1,0 +1,1 @@
+export {serch} from "./src/serch.ts"
