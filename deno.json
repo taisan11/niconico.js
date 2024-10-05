@@ -1,5 +1,5 @@
 {
-  "name": "niconico.js",
+  "name": "@taisan11/niconicojs",
   "version": "0.1.0",
   "exports": "./mod.ts",
   "tasks": {
