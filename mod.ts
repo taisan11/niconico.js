@@ -1,1 +1,2 @@
-export {serch} from "./src/serch.ts"
+export {search} from "./src/serch.ts"
+export {sujest} from "./src/sujest.ts"
